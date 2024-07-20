@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Programando  desde el 2020 <br>📚 Acualtemnte estoy aprendiendo C# y Python<br>🎯 Metas No dejar de aprender <br>🎲 </p>
+<p align="left">✨ Programando  desde el 2020 <br>📚 Acualtemnte estoy aprendiendo C# y Python<br>🎯 Metas: No dejar de aprender <br>🎲 </p>
 
 ###
 
