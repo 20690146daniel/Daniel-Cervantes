@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Mi nombre es Daniel Cervantes y soy estudiate de 8vo semestre de la carrera de Ingeneria en Sistemas Computacionales , en el Tenologico Nacinal de Mexico Campus Cd Valles</p>
+<p align="left">Mi nombre es Daniel Cervantes y soy estudiante de 8vo semestre de la carrera de Ingeneria en Sistemas Computacionales , en el Tecnológico Nacionalde Mexico Campus Cd Valles</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Programando  desde el 2020 <br>📚 Acualtemnte estoy aprendiendo C# y Python<br>🎯 Metas: No dejar de aprender <br>🎲 </p>
+<p align="left">✨ Programando  desde el 2020 <br>📚 Actualmente estoy aprendiendo C# y Python<br>🎯 Metas: No dejar de aprender <br>🎲 </p>
 
 ###
 
