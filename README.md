@@ -3,7 +3,7 @@
 ###
 
 <p align="left">Mi nombre es Daniel Cervantes y soy estudiante de 8vo semestre de la carrera de Ingeneria en Sistemas Computacionales , en el Tecnológico Nacionalde Mexico Campus Cd Valles</p>
-<p align="left">🇲🇽 Mexicano</p>
+<p align="left">🌵San Luis Potosi, Mexicano</p>
 
 ###
 
