@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Mi nombre es Daniel Cervantes  Soy estudiate de 8vo semestre de la carrera de Ingeneria en Sistemas Computacionales , de Mexico</p>
+<p align="left">Mi nombre es Daniel Cervantes y soy estudiate de 8vo semestre de la carrera de Ingeneria en Sistemas Computacionales , en el Tenologico Nacinal de Mexico Campus Cd Valles</p>
 
 ###
 
