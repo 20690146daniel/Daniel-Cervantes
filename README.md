@@ -3,7 +3,7 @@
 ###
 
 <p align="left">Mi nombre es Daniel Cervantes y soy estudiante de 8vo semestre de la carrera de Ingeneria en Sistemas Computacionales , en el Tecnológico Nacionalde Mexico Campus Cd Valles</p>
-<P>🇲🇽 Mexicano</P>
+<p align="left">🇲🇽 Mexicano</p>
 
 ###
 
@@ -29,14 +29,13 @@
 </div>
 
 ###
-
-###
 <div align="center">
   <img src="https://profile-counter.glitch.me/20690146daniel/count.svg?"  />
 </div>
 ###
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />\]
+  <img src="https://www.linkedin.com/in/daniel-cervantes-3783602b3//master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
 
