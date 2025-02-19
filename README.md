@@ -41,10 +41,7 @@
   I enjoy building interactive and user-friendly web applications using React, Node.js, and JavaScript. 
 </p>
 
-## Projects 
 
-*   **[Project Name 1](link-to-project):**  A brief description of your project.
-*   **[Project Name 2](link-to-project):** A brief description of your project.
 
 ## Connect with me
 
@@ -70,7 +67,7 @@
 
 ## Education
 
-*   **Bachelor of Science in Computer Systems Engineering** - [National Technological Institute of Mexico, Cd. Valles Campus] ()
+*   **Computer Systems Engineer ** - [National Technological Institute of Mexico, Cd. Valles Campus] ()
 
 ## Skills
 
