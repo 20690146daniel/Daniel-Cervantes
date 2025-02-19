@@ -11,8 +11,8 @@
 
 ## About Me
 
-*   Programming since 2020
-*   Currently learning C# and Python
+*   Programming since 2022
+*   **Currently Learning:** React Native, Kotlin
 *   Interested in front-end development and UI/UX design
 *   Always seeking new challenges and opportunities to expand my skillset
 
@@ -38,7 +38,7 @@
 </div>
 
 <p align="center">
-  I enjoy building interactive and user-friendly web applications using React, Node.js, and JavaScript. 
+I enjoy building interactive and user-friendly web applications using React, Node.js, and JavaScript for frontend and backend development, as well as Laravel for robust backend solutions and Flutter for creating modern, cross-platform user interfaces. I am passionate about leveraging these technologies to deliver seamless, efficient, and innovative solutions.
 </p>
 
 
@@ -61,18 +61,19 @@
 
 ## Work Experience
 
-*   **[National Technological Institute of Mexico, Cd. Valles Campus]** - [Developer] ([May 2024] - [December 2024])
-    *   [Maintain and develop new functionalities]
-    *   [Develop cross-platform mobile applications]
+*   **National Technological Institute of Mexico, Cd. Valles Campus** - [Developer] [May 2024] - [December 2024]
+    *   Maintain and develop new functionalities
+    *   Develop cross-platform mobile applications
 
 ## Education
 
-*   **Computer Systems Engineer ** - [National Technological Institute of Mexico, Cd. Valles Campus] ()
+*   **Computer Systems Engineer ** - National Technological Institute of Mexico, Cd. Valles Campus
 
 ## Skills
 
 *   **Programming Languages:** JavaScript, PHP, Dart
-*   **Frameworks:** Node.js, Laravel, React libraries, Livewire
+*   **Frameworks:** Node.js, Laravel, 
+*   **libraries:** Livewire,React
 *   **Databases:** MongoDB, MySQL
 *   **Other Skills:** Git
 
