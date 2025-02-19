@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋 I'm Daniel Cervantes Villanueva</h1>
 
-<p align="center">
-  <img src="your-profile-picture.jpg" width="150" alt="Profile Picture">
-</p>
 
 <p align="center">
   I'm a Computer Science graduate eager to grow and learn continuously. I'm passionate about web development and creating innovative solutions.
@@ -26,12 +23,18 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
+    <img width="12" />
+<img src="https://cdn.freelogovectors.net/wp-content/uploads/2023/09/flutter_logo-freelogovectors.net_.png" height="40" alt="php logo" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-wordmark.svg" height="40" alt="mongodb logo" />
+<img src="https://pluspng.com/img-png/logo-mongodb-png-mongodb-logo-anything-but-the-simplest-of-web-applications-requires-a-database-to-store-and-serve-content-from-choosing-the-right-database-and-structuring-413.png" height="40" alt="mongodb logo" />
 <img width="12" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Laravel_logo.svg/800px-Laravel_logo.svg.png" height="40" alt="laravel logo" />
+<img src=""https://logospng.org/download/laravel/logo-laravel-icon-1024.png" height="40" alt="laravel logo" />
 <img width="12" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" height="40" alt="php logo" />
+  <img width="12" />
+<img src="https://www.pngplay.com/wp-content/uploads/7/Mysql-Logo-PNG-Background.png" height="40" alt="php logo" />
+  
 </div>
 
 <p align="center">
