@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  I'm a Computer Science graduate eager to grow and learn continuously. I'm passionate about web development and creating innovative solutions.
+  I am a Computer Systems Engineer  eager to grow and learn continuously. I'm passionate about web development and creating innovative solutions.
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 <img src="https://pluspng.com/img-png/logo-mongodb-png-mongodb-logo-anything-but-the-simplest-of-web-applications-requires-a-database-to-store-and-serve-content-from-choosing-the-right-database-and-structuring-413.png" height="40" alt="mongodb logo" />
 <img width="12" />
-<img src=""https://logospng.org/download/laravel/logo-laravel-icon-1024.png" height="40" alt="laravel logo" />
+<img src="https://logospng.org/download/laravel/logo-laravel-icon-1024.png" height="40" alt="laravel logo" />
 <img width="12" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" height="40" alt="php logo" />
   <img width="12" />
