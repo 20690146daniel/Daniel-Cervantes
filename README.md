@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋 I'm Daniel Cervantes Villanueva</h1>
+<h1 align="center">Hi 👋 I'm Daniel Cervantes Villanueva</h1>
 
 <p align="center">
   <img src="your-profile-picture.jpg" width="150" alt="Profile Picture">
@@ -14,10 +14,10 @@
 
 ## About Me
 
-*  Programming since 2020
-*  Currently learning C# and Python
-*  Interested in front-end development and UI/UX design
-*  Always seeking new challenges and opportunities to expand my skillset
+*   Programming since 2020
+*   Currently learning C# and Python
+*   Interested in front-end development and UI/UX design
+*   Always seeking new challenges and opportunities to expand my skillset
 
 ## I Develop
 
@@ -27,11 +27,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="mongodb logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" height="40" alt="laravel logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
 </div>
 
 <p align="center">
@@ -40,8 +35,8 @@
 
 ## Projects 
 
-* **[Project Name 1](link-to-project):**  A brief description of your project.
-* **[Project Name 2](link-to-project):** A brief description of your project.
+*   **[Project Name 1](link-to-project):**  A brief description of your project.
+*   **[Project Name 2](link-to-project):** A brief description of your project.
 
 ## Connect with me
 
@@ -58,3 +53,30 @@
   <img src="https://github-readme-stats.vercel.app/api?username=20690146daniel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&cache_seconds=3600&t=" + new Date().getTime()  height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=20690146daniel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2&cache_seconds=3600&t=" + new Date().getTime() height="150" alt="languages graph" />
 </div>
+
+## Work Experience
+
+*   **[National Technological Institute of Mexico, Cd. Valles Campus]** - [Developer] ([May 2024] - [December 2024])
+    *   [Maintain and develop new functionalities]
+    *   [Develop cross-platform mobile applications]
+
+## Education
+
+*   **Bachelor of Science in Computer Systems Engineering** - [National Technological Institute of Mexico, Cd. Valles Campus] ()
+
+## Skills
+
+*   **Programming Languages:** JavaScript, PHP, Dart
+*   **Frameworks:** Node.js, Laravel, React libraries, Livewire
+*   **Databases:** MongoDB, MySQL
+*   **Other Skills:** Git
+
+## Interests
+
+*   Front-end and back-end web development
+*   Mobile development
+
+## Goals
+
+*   Find a job as a web developer where I can apply my skills and continue learning.
+*   Master new technologies like React and Express.
