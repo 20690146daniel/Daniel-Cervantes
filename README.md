@@ -27,6 +27,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-wordmark.svg" height="40" alt="mongodb logo" />
+<img width="12" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Laravel_logo.svg/800px-Laravel_logo.svg.png" height="40" alt="laravel logo" />
+<img width="12" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" height="40" alt="php logo" />
 </div>
 
 <p align="center">
